@@ -28,8 +28,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>
 <img src="https://github.com/user-attachments/assets/6ca54f03-ef5b-4405-b9e1-80170b912c3d" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<!-- ![image](https://github.com/user-attachments/assets/6ca54f03-ef5b-4405-b9e1-80170b912c3d) -->
 </p>
-![image](https://github.com/user-attachments/assets/6ca54f03-ef5b-4405-b9e1-80170b912c3d)
+
 <p>
 Go within the control panel, then Programs, then Programs and Features, then click on the left hand side of the panel that says Turn Windows features on or off. Here we can check the box for Internet Information Services (IIS), we can also check CGI here as well.
 </p>
