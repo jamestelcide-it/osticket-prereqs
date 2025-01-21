@@ -18,7 +18,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Enable IIS within Windows
+- Enable IIS and CGI within Windows Control Panel
 - Item 2
 - Item 3
 - Item 4
@@ -27,6 +27,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
+<img src="https://github.com/user-attachments/assets/6ca54f03-ef5b-4405-b9e1-80170b912c3d" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 ![image](https://github.com/user-attachments/assets/6ca54f03-ef5b-4405-b9e1-80170b912c3d)
 </p>
 <p>
