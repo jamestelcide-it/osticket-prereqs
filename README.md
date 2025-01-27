@@ -18,9 +18,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Enable IIS and CGI within Windows Control Panel
-- Install PHP Manager for IIS
-- Install IIS URL Rewrite Module
+- Open OS Ticket Documentation for detailed information on prerequisites
+- Download PHP Manager for IIS
+- Download IIS URL Rewrite Module
 - Item 4
 - Item 5
 
@@ -62,7 +62,66 @@ Next we install another requirement for osTicket the rewrite module.
 
 </p>
 <p>
-Next we can create a new folder on the C:\ called PHP and we can put our php language files in here.
+Next we can create a new folder on the C:\ called PHP and we can install our php language files in here.
+</p>
+<br />
+
+<p>
+<img src="https://github.com/user-attachments/assets/637d3b78-d9d9-48e7-8c13-79164f36895f" height="80%" width="80%" alt="osTicket Steps"/>
+<!-- ![image](https://github.com/user-attachments/assets/637d3b78-d9d9-48e7-8c13-79164f36895f) -->
+</p>
+<p>
+Next we can install the VC_redistx86 file
+</p>
+<br />
+
+<p>
+<img src="https://github.com/user-attachments/assets/396e6664-cc47-4b87-9618-e02c0b80ff61" height="80%" width="80%" alt="osTicket Steps"/>
+<!-- ![image](https://github.com/user-attachments/assets/396e6664-cc47-4b87-9618-e02c0b80ff61) -->
+</p>
+<p>
+Next we can install MySQL 5.5.62, this will give us a database that OS ticket will store all our data in
+</p>
+<br />
+
+<p>
+<img src="https://github.com/user-attachments/assets/d0279c80-49ed-4d33-ba52-19b2e8b2b8d0" height="80%" width="80%" alt="osTicket Steps"/>
+ <img src="https://github.com/user-attachments/assets/56c4d3e8-c29d-4129-92ee-dcbbd164fb51" height="80%" width="80%" alt="osTicket Steps"/>
+<!-- ![image](https://github.com/user-attachments/assets/d0279c80-49ed-4d33-ba52-19b2e8b2b8d0) -->
+<!-- ![image](https://github.com/user-attachments/assets/56c4d3e8-c29d-4129-92ee-dcbbd164fb51) -->
+
+</p>
+<p>
+Next we can run IIS as an admin and here we can register PHP from within IIS
+</p>
+<br />
+
+<p>
+<img src="https://github.com/user-attachments/assets/28e126a5-9793-428a-85a0-6390f3f04984" height="80%" width="80%" alt="osTicket Steps"/>
+<!-- ![image](https://github.com/user-attachments/assets/28e126a5-9793-428a-85a0-6390f3f04984) -->
+
+</p>
+<p>
+Next we can install osTicket into the IIS webroot folder.
+</p>
+<br />
+
+<p>
+<img src="https://github.com/user-attachments/assets/a278b41a-6153-4a4c-93b2-5905dc2ecb7c" height="80%" width="80%" alt="osTicket Steps"/>
+<!-- ![image](https://github.com/user-attachments/assets/a278b41a-6153-4a4c-93b2-5905dc2ecb7c) -->
+</p>
+<p>
+Now we should be able to browse to the osTicket setup webpage
+</p>
+<br />
+
+<p>
+<img src="https://github.com/user-attachments/assets/0403557d-b8f2-4488-949e-57a8369be586" height="80%" width="80%" alt="osTicket Steps"/>
+<!-- ![image](https://github.com/user-attachments/assets/0403557d-b8f2-4488-949e-57a8369be586) -->
+</p>
+
+<p>
+We can then navigate to PHP Extensions in IIS Manager and enable php_imap.dll, php_inti.dll, and php_opache.dll in order to fulfil the previously crossed out recomendations for osTicket
 </p>
 <br />
 
@@ -74,61 +133,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="osTicket Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="osTicket Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="osTicket Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="osTicket Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="osTicket Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="osTicket Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="osTicket Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="osTicket Steps"/>
