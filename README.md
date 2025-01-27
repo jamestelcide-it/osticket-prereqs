@@ -21,8 +21,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Open OS Ticket Documentation for detailed information on prerequisites
 - Download PHP Manager for IIS
 - Download IIS URL Rewrite Module
-- Item 4
-- Item 5
+- Download and Install HeidiSQL
+- Download mySQL
 
 <h2>Installation Steps</h2>
 
@@ -119,21 +119,20 @@ Now we should be able to browse to the osTicket setup webpage
 <img src="https://github.com/user-attachments/assets/0403557d-b8f2-4488-949e-57a8369be586" height="80%" width="80%" alt="osTicket Steps"/>
 <!-- ![image](https://github.com/user-attachments/assets/0403557d-b8f2-4488-949e-57a8369be586) -->
 </p>
-
 <p>
 We can then navigate to PHP Extensions in IIS Manager and enable php_imap.dll, php_inti.dll, and php_opache.dll in order to fulfil the previously crossed out recomendations for osTicket
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="osTicket Steps"/>
+<img src="https://github.com/user-attachments/assets/4d4ae648-9e71-4e88-8eac-4d99dae00529" height="80%" width="80%" alt="osTicket Steps"/>
+<!-- ![image](https://github.com/user-attachments/assets/4d4ae648-9e71-4e88-8eac-4d99dae00529) -->
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Finally we can finish the basic instalation of osTicket.
 </p>
 <br />
-
-
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="osTicket Steps"/>
