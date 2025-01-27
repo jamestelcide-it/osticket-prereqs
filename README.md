@@ -42,7 +42,7 @@ Go within the control panel, then Programs, then Programs and Features, then cli
  <!-- ![image](https://github.com/user-attachments/assets/25e1c0a2-7720-4a97-b8b7-254abd6ec6cc) -->
 </p>
 <p>
-We install PHPManagerForIIS because osTicket runs on PHP and is required to make osTicket Work.
+Next we install PHPManagerForIIS because osTicket runs on PHP and is required to make osTicket Work.
 </p>
 <br />
 
@@ -120,7 +120,7 @@ Now we should be able to browse to the osTicket setup webpage
 <!-- ![image](https://github.com/user-attachments/assets/0403557d-b8f2-4488-949e-57a8369be586) -->
 </p>
 <p>
-We can then navigate to PHP Extensions in IIS Manager and enable php_imap.dll, php_inti.dll, and php_opache.dll in order to fulfil the previously crossed out recomendations for osTicket
+We can then navigate to PHP Extensions in IIS Manager and enable php_imap.dll, php_inti.dll, and php_opache.dll in order to fulfil the previously crossed out recommendations for osTicket
 </p>
 <br />
 
@@ -130,38 +130,10 @@ We can then navigate to PHP Extensions in IIS Manager and enable php_imap.dll, p
 
 </p>
 <p>
-Finally we can finish the basic instalation of osTicket.
+Finally we can finish the basic installation of osTicket.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="osTicket Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="osTicket Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="osTicket Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="osTicket Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<img src="https://github.com/user-attachments/assets/68524144-4ce5-4e3e-b421-9851af7095cf" height="80%" width="80%" alt="osTicket Steps"/>
+<!-- ![image](https://github.com/user-attachments/assets/68524144-4ce5-4e3e-b421-9851af7095cf) -->
